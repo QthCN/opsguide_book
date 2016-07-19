@@ -1,6 +1,6 @@
 * 前言
-* 第一部分 简介 - ok
-  * 传统运维的主要工作及挑战 - ok
+* 第一部分 简介
+  * [传统运维的主要工作及挑战](https://github.com/QthCN/opsguide_book/blob/master/%E4%BC%A0%E7%BB%9F%E8%BF%90%E7%BB%B4%E7%9A%84%E4%B8%BB%E8%A6%81%E5%B7%A5%E4%BD%9C%E5%8F%8A%E6%8C%91%E6%88%98.md)
 * 第二部分 基础
   * 虚拟化及OpenStack - ok
     * 虚拟化原理 - ok
